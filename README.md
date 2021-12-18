@@ -1,1 +1,1 @@
-# Algorithmic-Trading-Agorithms-Comparer
+# Trading-Agorithms-Comparer
