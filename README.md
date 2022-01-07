@@ -24,3 +24,5 @@ Results of the third test
 short_window = 10
 long_window = 30
 training data with an offset of 4 months
+![Screenshot 2022-01-07 080753.png](attachment:43d56311-0008-444b-a6d8-798614da2020.png)
+
