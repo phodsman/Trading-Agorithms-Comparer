@@ -93,4 +93,4 @@ training data with an offset of 3 months
 
 ![](https://github.com/phodsman/Trading-Agorithms-Comparer/blob/main/Screenshot%202022-01-07%20112316.png?raw=true)
 
-It appears that AdaBoost did improve the performance of the model compared to SVM.
+It appears that AdaBoost did improve the performance of the model compared to SVM, though it can be seen that it had lower performance in 2019 and higher performance in 2020.
