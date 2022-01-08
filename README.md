@@ -91,6 +91,6 @@ long_window = 100
 
 training data with an offset of 3 months
 
-![](https://github.com/phodsman/Trading-Agorithms-Comparer/blob/main/Screenshot%202022-01-07%20080753.png?raw=true)
+![](https://github.com/phodsman/Trading-Agorithms-Comparer/blob/main/Screenshot%202022-01-07%20112316.png?raw=true)
 
-It appears that AdaBoost did not improve the performance of the model compared to SVM.
+It appears that AdaBoost did improve the performance of the model compared to SVM.
